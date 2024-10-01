@@ -1,2 +1,2 @@
-# Karigar_bazar
-Rural handmade Products
+# Rural handmade Products
+Karigar_bajar
